@@ -1,2 +1,0 @@
-# LPython
-learning Python 
