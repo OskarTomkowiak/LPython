@@ -1,10 +1,10 @@
 while True:
     file = input("Enter file name: ")
     if file == "clown":
-        file = 'clown.txt'
+        file = '0003clown.txt'
         break
     elif file == "intro":
-        file = 'intro.txt'
+        file = '0004intro.txt'
         break
     else:
         print("Bad file name...")
