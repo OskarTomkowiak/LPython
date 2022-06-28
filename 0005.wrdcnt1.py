@@ -1,10 +1,10 @@
 while True:
     fname = input ('Enter File:')
     if fname == "clown" :
-        fname = 'clown.txt'
+        fname = '0003clown.txt'
         break
     elif fname == "intro" :
-        fname = 'intro.txt'
+        fname = '0004intro.txt'
         break
     else:
         print("No file with this name")
